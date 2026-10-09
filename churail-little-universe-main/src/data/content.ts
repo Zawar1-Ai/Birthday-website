@@ -83,27 +83,27 @@ export type GalleryItem = {
 
 export const GALLERY: GalleryItem[] = [
   {
-    src: '/gallery/universe-sunset.png',
+    src: '/gallery/memory-1.jpeg',
     title: 'A FEW MOMENTS, KEPT SAFE',
     caption: 'from arguments… to forever',
   },
   {
-    src: '/gallery/universe-rain.png',
+    src: '/gallery/memory-2.jpeg',
     title: 'A FEW MOMENTS, KEPT SAFE',
     caption: 'even the quiet days feel warmer with you',
   },
   {
-    src: '/gallery/universe-flowers.png',
+    src: '/gallery/memory-3.jpeg',
     title: 'A FEW MOMENTS, KEPT SAFE',
     caption: 'us, blooming slowly',
   },
   {
-    src: '/gallery/universe-cafe.png',
+    src: '/gallery/memory-4.jpeg',
     title: 'A FEW MOMENTS, KEPT SAFE',
     caption: 'small memories, kept forever',
   },
   {
-    src: '/gallery/universe-stars.png',
+    src: '/gallery/memory-5.jpeg',
     title: 'A FEW MOMENTS, KEPT SAFE',
     caption: 'in every universe, somehow still us',
   },
@@ -112,7 +112,7 @@ export const GALLERY: GalleryItem[] = [
 export const FUN_FACTS = [
   '❤️ Our Beginning: From classmates to soulmates.',
   '🎶 Our Memories: Songs, laughter, and little moments.',
-  '🥹 Our Fights: Cute fights, endless love.',
+  '🫶 Our Little Moments: Every second with you is special. ❤️',
   '💗 My Favourite Person: You became my whole world.',
   '♾️ Our Forever: You and me, always. 💋',
 ]
@@ -121,17 +121,14 @@ export const LETTER = {
   greeting: 'Happy Birthday,',
   nickname: 'My kucchu pucchu,',
   body: [
-    `❤️ **Happy Birthday, Meri Jaan!** 🎂💗
+    ` ❤️🎂 HAPPY BIRTHDAY, MERI JAAN! 🎀💗
 
-Yaad hai humari kahani ek class project se shuru hui thi? Us waqt hum sirf class fellows thay, lekin slowly slowly tum meri zindagi ka sabse khoobsurat hissa ban gayi. 🥹❤️
+Kabhi socha nahi tha ke ek din woh stranger, jisse meri kabhi theek se baat bhi nahi hua karti thi, meri zindagi ka sabse important hissa ban jayegi. 🥹❤️ Hum toh bas class fellows thay, lekin phir woh maths ka paper aaya aur pata hi nahi chala kab humari baatein badhne lagin, kab tum mere liye special banne lagin aur kab ek stranger se tum meri zindagi ka sabse khoobsurat hissa ban gayi. Uske baad tumhare saath project karna, craft banana, exhibition ki preparations, saath ghoomna, golgappay khana aur tumhara intezaar karna… jaan, mujhe aaj bhi woh saare moments yaad hain. 🫶🏻💗
 
-Woh saath baith kar songs sunna, har baat par larai karna, ek doosre ko manana aur woh choti choti memories… aaj bhi mere dil mein bilkul zinda hain. 🫶🏻🎶
+Phir pata hi nahi chala kab tum meri favourite person ban gayi, kab tumse baat karna meri aadat ban gayi aur kab mujhe tumse mohabbat ho gayi. ❤️🥹 Tumhare saath woh random conversations, saath hansna, ek doosre ko tang karna aur woh saari choti choti memories mere liye bohat special hain. Aur phir aaya 9 October, woh din jab hum mile aur tumhare saath kuch aise khoobsurat moments share kiye jo mere dil ke hamesha kareeb rahenge. 🫂❤️‍🩹 Woh din, woh feelings aur tumhare saath guzara hua woh waqt meri favourite memories mein se hain.
 
-Pata hi nahi chala kab tum meri aadat se meri zaroorat aur phir meri mohabbat ban gayi. Tum sirf aik insan nahi, meri favourite person aur meri duniya ka sabse khoobsurat hissa ho. ❤️‍🩹
+I LOVE YOU SO MUCH, MERI JAAN! ❤️💋 Tum woh stranger ho jisse meri kahani shuru hui thi, aur aaj tum woh insan ho jiske saath main apni aane wali zindagi ki aur bhi khoobsurat memories banana chahta hoon. Happy Birthday, meri favourite girl, meri happiness, meri mohabbat, meri churail! 🫂♾️❤️
 
-**Bas meri ek hi khwahish hai, jaan, ke humari kahani ka har aane wala chapter bhi hum dono saath likhein.** ♾️💋
-
-I LOVE YOU SO MUCH, MERI JAAN! ❤️🎀
 `,
   ],
   signoff: 'Hamesha tumhara,',
